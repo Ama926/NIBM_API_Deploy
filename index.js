@@ -10,13 +10,13 @@ import { getFirestore, collection } from
 import { doc, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCGO1gtGMbicfl5GtksHDVoNz11puXFFic",
-    authDomain: "nibmtestprojectbyakila.firebaseapi.com",
-    projectId: "nibmtestprojectbyakila",
-    storageBucket: "nibmtestprojectbyakila.appspot.com",
-    messagingSenderId: "539038346774",
-    appId: "1:539038346774:web:a9e0d30347cdb8b2774f37",
-    measurementId: "G-Q0W7LDF1K5"
+  apiKey: "AIzaSyBekvNf1Vmf9yZrR6hqbQTZOl8aD5Usd2s",
+  authDomain: "testipc-d4897.firebaseapp.com",
+  projectId: "testipc-d4897",
+  storageBucket: "testipc-d4897.appspot.com",
+  messagingSenderId: "487435591602",
+  appId: "1:487435591602:web:4c390b9150fdd4ab040eab",
+  measurementId: "G-9KCK7HR92E"
   };
 
 const app = initializeApp(firebaseConfig);
